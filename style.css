@@ -78,4 +78,5 @@ body{
 #next-btn:hover{
     background-color: #042e72;
     color: white;
+    font-size: large;
 }
